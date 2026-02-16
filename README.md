@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Eray!
 
-<!--
-**chivaass/chivaass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Yazılım Geliştirme (Bilgisayar Programcılığı)** öğrencisiyim. Kendimi yazılım dünyasında geliştirmeye ve yeni teknolojiler öğrenmeye odaklandım.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 İlgi Alanlarım
+Şu anda aşağıdaki alanlarda projeler geliştiriyor ve kendimi eğitiyorum:
+
+* 🌐 **Web Geliştirme:** Modern arayüzler ve dinamik yapılar.
+* 🖥️ **Masaüstü Uygulamaları:** Kullanıcı dostu araçlar ve sistem çözümleri.
+* 🛠️ **Yazılım Mimarisi:** Temiz kod (Clean Code) yazma pratikleri.
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+Şu ana kadar temelini attığım ve üzerinde çalıştığım araçlar:
+
+* **Diller:** `HTML5`, `CSS3`, `JavaScript`
+* **Araçlar:** `Git`, `GitHub`, `VS Code`, `Visual Studio`
+
+---
+
+### ✨ Hedeflerim
+Yazılım geliştirme süreçlerinde modern frameworkleri (**React**, **.NET** vb.) ustalıkla kullanabilen bir **Full-Stack Geliştirici** olma yolunda ilerlerken, geliştirdiğim projelerle topluluğa faydalı araçlar sunmayı hedefliyorum.
+
+---
+
+### 📸 https://www.instagram.com/eray.csknn/
