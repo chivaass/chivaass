@@ -16,7 +16,7 @@
 ### 🛠️ Kullandığım Teknolojiler
 Şu ana kadar temelini attığım ve üzerinde çalıştığım araçlar:
 
-* **Diller:** `HTML5`, `CSS3`, `JavaScript`
+* **Diller:** `HTML5`, `CSS3`, `JavaScript`, `Python`, `Java`, `C#`
 * **Araçlar:** `Git`, `GitHub`, `VS Code`, `Visual Studio`
 
 ---
