@@ -9,7 +9,7 @@
 
 * 🌐 **Web Geliştirme:** Modern arayüzler ve dinamik yapılar.
 * 🖥️ **Masaüstü Uygulamaları:** Kullanıcı dostu araçlar ve sistem çözümleri.
-* 🛠️ **Yazılım Mimarisi:** Temiz kod (Clean Code) yazma pratikleri.
+* 🛠️ **Yazılım Mimarisi:** Temiz kod yazma.
 
 ---
 
