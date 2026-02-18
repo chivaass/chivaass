@@ -17,7 +17,7 @@
 Şu ana kadar temelini attığım ve üzerinde çalıştığım araçlar:
 
 * **Diller:** `HTML5`, `CSS3`, `JavaScript`, `Python`, `Java`, `C#`
-* **Araçlar:** `Git`, `GitHub`, `VS Code`, `Visual Studio`
+* **Araçlar:** `Git`, `GitHub`, `VS Code`, `Visual Studio`, `Android Studio`
 
 ---
 
